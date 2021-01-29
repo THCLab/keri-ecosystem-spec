@@ -1,5 +1,8 @@
 # API Proposal
 
+[![hackmd-github-sync-badge](https://hackmd.io/Ae0qjHXaRcaEQP9LwsAiHg/badge)](https://hackmd.io/Ae0qjHXaRcaEQP9LwsAiHg)
+
+
 ### `Entity`
 The current public keys store identified by unique `Identifier`. Allows retriving public keys currently stored by other entity.
 
